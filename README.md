@@ -1,2 +1,2 @@
-# desenvolve_python_intermediario
-Projeto Desenvolve - Itabira Programação bIntermediaria com Python; PDITA382
+# desenvolve_python_intermediaria
+Projeto Desenvolve - Itabira Programação Intermediaria com Python; PDITA382
